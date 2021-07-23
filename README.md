@@ -5,6 +5,10 @@ Built using
 - ApexCharts
 - React
 - TailwindCSS
+![image](https://user-images.githubusercontent.com/30016242/126786279-78803e1a-b9cf-4f78-9f68-af414fdccc96.png)
+![image](https://user-images.githubusercontent.com/30016242/126786332-d2a81bf4-bc38-4793-8bb1-1b30abca811c.png)
+
+
 https://www.loom.com/share/f86af7f19f4b4448aa38a01d71770582
 
 # Getting Started with Create React App
