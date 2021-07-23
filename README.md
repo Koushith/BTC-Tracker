@@ -1,3 +1,14 @@
+# An app that lets you to track the historic data, convert the price etc.
+
+Built using
+
+- ApexCharts
+- React
+- TailwindCSS
+![2021-07-23-18-32-hack-on-dev herokuapp com](https://user-images.githubusercontent.com/30016242/126785811-4a72dd88-6ee7-414b-a0d4-436ce1f46b53.png)
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
