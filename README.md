@@ -5,9 +5,7 @@ Built using
 - ApexCharts
 - React
 - TailwindCSS
-![2021-07-23-18-32-hack-on-dev herokuapp com](https://user-images.githubusercontent.com/30016242/126785811-4a72dd88-6ee7-414b-a0d4-436ce1f46b53.png)
-
-
+https://www.loom.com/share/f86af7f19f4b4448aa38a01d71770582
 
 # Getting Started with Create React App
 
